@@ -1,18 +1,21 @@
-# Aditia — Developer Portfolio
+# [Aditia Xaverius Arapenta Tarigan / Brand Portofolio] — Personal Portfolio
 
-One-page developer portfolio built with Next.js, React, TypeScript, Tailwind CSS, and a persistent Three.js keyboard scene.
+Website portofolio pribadi yang dibangun menggunakan [Next.js](https://nextjs.org/), TypeScript, dan Tailwind CSS untuk menampilkan profil, proyek, serta pengalaman.
 
-## Run locally
+## ✨ Fitur Utama
+- **Halaman Beranda & Profil:** Ringkasan singkat latar belakang, keahlian, dan tautan kontak/sosial.
+- **Showcase Proyek:** Daftar proyek yang pernah dikerjakan beserta deskripsi, teknologi yang digunakan, dan tautan demo/repository.
+- **Responsif:** Tampilan yang menyesuaikan ukuran layar desktop maupun mobile.
 
-```bash
-npm install
-npm run dev
-```
+## 🛠️ Tech Stack
+- **Framework:** Next.js (App Router)
+- **Bahasa:** TypeScript
+- **Styling:** Tailwind CSS & PostCSS
+- **Linting:** ESLint
 
-Open the local URL printed by Next.js. Create a static export with `npm run build`; the exported site is written to `out/`.
+## 🚀 Menjalankan Project Secara Lokal
 
-## Edit the content
-
-Update `app/data/portfolio.ts` to change the profile name, role, introduction, contact email, keyboard technologies and key shortcuts, sample projects, and social URLs. The included projects are examples. Demo, GitHub, and social links are intentionally inactive until real URLs are added.
-
-Keyboard layout and interaction are in `app/components/keyboard-world.tsx`. The projects carousel, contact form, and typing cat live in `app/components/`.
+1. **Install dependencies:**
+   ```bash
+   npm install
+"# Porto" 
